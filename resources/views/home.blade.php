@@ -130,7 +130,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="map_main">  
-                                <div class="blog_img"><img src="{{ asset('images/left-col.jpg') }}"></div>
+                                <div class="blog_img"><img src="https://img.freepik.com/free-photo/parking_1127-2914.jpg?w=1380&t=st=1705744599~exp=1705745199~hmac=d462483add9b3339679946ac93c197e7bf18e39cf549582f0d13dca79014d27e"></div>
                         </div>
                     </div>
                 </div>

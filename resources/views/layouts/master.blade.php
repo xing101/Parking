@@ -16,7 +16,7 @@
         <link rel="stylesheet" type="text/css" href="{{asset('css/style.css')}}">
         <!-- Responsive-->
         <link rel="stylesheet" href="{{asset('css/responsive.css')}}">
-        <link rel="icon" href="{{asset('images/fevicon.png')}}" type="image/gif" />
+        <link rel="icon" href="https://img.freepik.com/free-vector/parking-sign-flat-style_78370-3479.jpg?w=826&t=st=1705744460~exp=1705745060~hmac=f30a6ad7cc5aa50d9b46bf53bdba8e6ab434b81952c1ce1d87f32220bd840366" type="image/svg" />
         <!-- Scrollbar Custom CSS -->
         <link rel="stylesheet" href="{{asset('css/jquery.mCustomScrollbar.min.css')}}">
         <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">

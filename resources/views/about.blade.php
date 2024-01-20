@@ -13,7 +13,7 @@
          <div class="about_section_2">
             <div class="row">
                <div class="col-md-6">
-                  <div class="blog_img"><img src="{{ asset('images/left-col.jpg') }}"></div>
+                  <div class="blog_img"><img src="https://img.freepik.com/free-photo/parking_1127-2044.jpg?w=1380&t=st=1705744249~exp=1705744849~hmac=facfcfc3096d3fea48769ce3a3bd3068e812327a3d374c6438e1634707642872"></div>
                </div>
                <div class="col-md-6">
                   <div class="blog_taital_main">
