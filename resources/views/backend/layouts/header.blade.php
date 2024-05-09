@@ -3,7 +3,7 @@
 <!-- ============================================================== -->
 <div class="dashboard-header">
     <nav class="navbar navbar-expand-lg bg-white fixed-top">
-        <a class="navbar-brand" href="index.html">Concept</a>
+        <a class="navbar-brand" href={{ route('backend.dashboard') }}>Concept</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -27,7 +27,7 @@
                                     <a href="#" class="list-group-item list-group-item-action active">
                                         <div class="notification-info">
                                             <div class="notification-list-user-img"><img
-                                                    src="assets/images/avatar-2.jpg" alt=""
+                                                    src={{ asset('backend/assets/images/avatar-2.jpg') }} alt=""
                                                     class="user-avatar-md rounded-circle"></div>
                                             <div class="notification-list-user-block"><span
                                                     class="notification-list-user-name">Jeremy
@@ -39,7 +39,7 @@
                                     <a href="#" class="list-group-item list-group-item-action">
                                         <div class="notification-info">
                                             <div class="notification-list-user-img"><img
-                                                    src="assets/images/avatar-3.jpg" alt=""
+                                                    src={{asset('backend/assets/images/avatar-3.jpg')}} alt=""
                                                     class="user-avatar-md rounded-circle"></div>
                                             <div class="notification-list-user-block"><span
                                                     class="notification-list-user-name">John Abraham </span>is
@@ -51,7 +51,7 @@
                                     <a href="#" class="list-group-item list-group-item-action">
                                         <div class="notification-info">
                                             <div class="notification-list-user-img"><img
-                                                    src="assets/images/avatar-4.jpg" alt=""
+                                                    src={{asset('backend/assets/images/avatar-3.jpg')}} alt=""
                                                     class="user-avatar-md rounded-circle"></div>
                                             <div class="notification-list-user-block"><span
                                                     class="notification-list-user-name">Monaan Pechi</span> is
